@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558109406 source:c:\users\diana\desktop\cefet\4º período\arquitetura de arquivos\trabalho\ordenar\main.c
+	<stdio.h>
+	<string.h>
+
